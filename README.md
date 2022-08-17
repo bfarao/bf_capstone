@@ -42,9 +42,10 @@ The datasets from Open Data Network are for Austin and Dallas, TX from 2015 to 2
 
 ## The Technology
 
-Python
-  Jupyter Notebooks
-  pandas
+-Python
+  --Jupyter Notebooks
+  --pandas
+  
 Power BI dashboard
 
 ## The Process
