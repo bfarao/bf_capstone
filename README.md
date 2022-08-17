@@ -29,7 +29,7 @@ My first approach was to research the area of Nashville or at least investigate 
 
 ## The Reality
 
-	I was unable to find available data for Nashville and very little for most of the cities or counties in TN.  Emails were sent requesting the data , but no answers.
+I was unable to find available data for Nashville and very little for most of the cities or counties in TN.  Emails were sent requesting the data , but no answers.
 
 ## The Plan B
 
