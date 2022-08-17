@@ -1,5 +1,7 @@
-# bf_capstone
-Adopt Don't Shop: A Look into Overfilled Animal Shelters and Euthanization Rates.
+# Adopt Don't Shop: A Look into Crowded Animal Shelters in America and Why you should Adopt.
+
+This project analyze data from Shelter Animals Count(SAC) from 2019 to 2021 and OpenData.net dataset for Dallas and Austin, TX cities regarding their shelters activities from 2015 to 2022.
+
 
 My Motivation:
 Growing up in Brazil, my dogs and cats friends were always mutts, I would find them on the streets and I would bring them home and I would bring my most sad face and the most incredible compelling pitch in hope that my mom would allow me to keep them and in many occasions she did. Despite knowing that going to the vet for check ups is important for you and your pet, my childhood doggies and cats never saw a vet and they lived furever (did you see what I did here 😉). 
