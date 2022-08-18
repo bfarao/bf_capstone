@@ -30,18 +30,17 @@ What kind of pets are available for adoption?
 
 ## The Dream
 
-My first approach was to research the area of Nashville or at least investigate any city or county in Tennessee. Gather all the dataset for shelters and/or animals rescues and animal humane societies near by.
+My first approach was to research the area of Nashville or at least investigate any city or county around Metro Area. Gather all the dataset for shelters and/or animals rescues and animal humane societies near by. The reason why is because I live in this area and with this research, I could help somehow the community around me, spot trends, and help guiding the shelters to better marketing campaigns or to specific area. And I even went a step further and opened my search to the whole state of TN in case Nashville failed through.
 
 ## The Reality
 
-I was unable to find available data for Nashville and very little for most of the cities or counties in TN. The few that I was able to find did not contain the necessary information to help me to answer my question. 
-Emails were sent requesting the data , but no answers.
-I went where the data took me, where it was available.  So... Texas it is then!
+I was unable to find available data for Nashville and very little for most of the cities or counties in TN. The few that I was able to find did not contain the necessary information to help me to answer my question. Emails were sent requesting the data , but no answers.
+As my instructor said, you have to go where the data is… so I did, and I ended up in TX.
 
 ## The Data
 This project analyze data from [Shelter Animals Count](https://www.shelteranimalscount.org/) and [Open Data Network](https://www.opendatanetwork.com/) dataset for two TX cities regarding their shelters activities.
-Shelter Animals Count (SAC) dataset contains information from shelters around the US and it's divided by state and year. The data is for the year of 2019, 2020, and 2022.
-The datasets from Open Data Network are for Austin and Dallas, TX from 2015 to 2022.
+Shelter Animals Count (SAC) dataset contains information from shelters around the US and it's divided by state and year for Felines and Canines only. The data is for the year of 2019, 2020, and 2022.
+The second dataset from Open Data Network are for Austin and Dallas, TX from 2015 to 2022.
 
 ## The Technology
 
@@ -53,9 +52,17 @@ The datasets from Open Data Network are for Austin and Dallas, TX from 2015 to 2
 
 ## The Process
 
-Downloaded multiple CSV files
+### Gather
 
-Clean, Prepare, Merge
+Downloaded multiple CSV files from data sources.
+
+### Clean
+
+The cleaning part of my project was the one that took the most of my time.
+
+For the SAC dataset had a lot of columns with a variety of information for both felines and canines. 
+
+Clean Prepare, Merge
 
 ## The Product
 [Final Product](https://app.powerbi.com/view?r=eyJrIjoiZTUwMTE0MzEtNWFlOC00OTM4LTliNTUtZTZmZjNjMDQ0ZTRiIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
