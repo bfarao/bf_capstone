@@ -75,9 +75,7 @@ Once all the cleaning up was done, I started to try out what could find or if th
 
 I am very grateful for this opportunity to present something that I care dearly and thanks to my instructors and teammates my vision became reality. I hope you will enjoy as much I did! 
 
-
 Until the next project 
-
 Tchau Tchau!!
 
 [Final Product](https://app.powerbi.com/view?r=eyJrIjoiZTUwMTE0MzEtNWFlOC00OTM4LTliNTUtZTZmZjNjMDQ0ZTRiIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
