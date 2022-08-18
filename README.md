@@ -73,7 +73,10 @@ Once all the cleaning up was done, I started to try out what could find or if th
 
 ## The Product
 
-I am very grateful for this opportunity to present something that I care dearly and thanks to my instructors and teammates my vision became reality. I hope you will enjoy as much I did! Until the next project 
+I am very grateful for this opportunity to present something that I care dearly and thanks to my instructors and teammates my vision became reality. I hope you will enjoy as much I did! 
+
+
+Until the next project 
 
 Tchau Tchau!!
 
