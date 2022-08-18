@@ -47,6 +47,7 @@ The second dataset from Open Data Network are for Austin and Dallas, TX from 201
 * Python
   * Jupyter Notebooks
   * pandas
+  * datetime
   
 * Power BI dashboard
 
@@ -77,7 +78,3 @@ I am very grateful for this opportunity to present something that I care dearly 
 Tchau Tchau!!
 
 [Final Product](https://app.powerbi.com/view?r=eyJrIjoiZTUwMTE0MzEtNWFlOC00OTM4LTliNTUtZTZmZjNjMDQ0ZTRiIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
-
-I am very grateful for this opportunity to present something that I care dearly and thanks to my instructors and teammates my vision became reality. I hope you will enjoy as much I did! Until the next project 
-
-Tchau!!
