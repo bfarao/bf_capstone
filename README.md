@@ -54,15 +54,30 @@ The second dataset from Open Data Network are for Austin and Dallas, TX from 201
 
 ### Gather
 
-Downloaded multiple CSV files from data sources.
+It took me a lot of searching online for the data that I wanted to research. As mentioned above I wanted to present my project with Nashville or TN data. Most of my searchs would take me to statistics that were great but the data was already agregated so they were not useful. My instructor directed to Open Data Network and boom! I was able to find useful data to work with.
+The SAC dataset was actually a friend of a friend that sent me the link. I was very happy to be able to access that data!
+So I had to download multiple CSV files, especially for Dallas dataset, but I was just very excited with the findings.
 
-### Clean
+### Clean & Prepare
 
-The cleaning part of my project was the one that took the most of my time.
+The cleaning part of my project was the one that took me the most time and energy.
 
-For the SAC dataset had a lot of columns with a variety of information for both felines and canines. 
+For the SAC dataset had a lot of columns with a variety of information for both felines and canines. So I had to make sense of the data and see what would help me to answer my questions the most. I had over 30 columns of information and I dialed down to only a few. Also the values in the columns had to be changed from objects to integers for better calculation. Once I had a good understanding of the data and extracted what I needed, I separated it into Felines columsna and Canine columns for better visualization and future presentation.
 
-Clean Prepare, Merge
+The dataset for Dallas and Austin I used separete notebooks, mostly because I was getting overwelmed by so many tables and I started to get lost on my own work lol. Dallas dataset was large and extensive, each year had it's own table and each table had it's own formating. This dataset took a me awhile to clean and have it ready for any type of calculation. Columns' name, values, and few NAN to clean up before I could merge all the tables in one. After renaming, changing the values to integers, drop some unuseful columns, merge, and so on I ended up with a good final table. The same had to be done for Austin dataset, a little less tables to deal with, but it also took me a lot of time cleaning the columns. Finally after days of grinding and with the help of my peers, I was able to merge Dallas and Austin dataset! 
+
+### Launch
+
+Once all the cleaning up was done, I started to try out what could find or if there was anything interesting outside of my questions. I had a lot of fun wiht the data and if I could I would have a much longer dashboards... But my presentation had to be 5 to 10 minutes, so I kept focused on the most important topics. I made a final notebook with all the tables I was going to use for the dashboards and from there I imported to Power BI where I started to use my creative side. I started broad with graphs and images. Then I zoomed in and tight up on the font, colors, and sizes and trying to bring together along with creating a smooth storytelling from one page to another.
 
 ## The Product
+
+I am very grateful for this opportunity to present something that I care dearly and thanks to my instructors and teammates my vision became reality. I hope you will enjoy as much I did! Until the next project 
+
+Tchau Tchau!!
+
 [Final Product](https://app.powerbi.com/view?r=eyJrIjoiZTUwMTE0MzEtNWFlOC00OTM4LTliNTUtZTZmZjNjMDQ0ZTRiIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+
+I am very grateful for this opportunity to present something that I care dearly and thanks to my instructors and teammates my vision became reality. I hope you will enjoy as much I did! Until the next project 
+
+Tchau!!
